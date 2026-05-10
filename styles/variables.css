@@ -7,5 +7,8 @@
   --bg-color-dark: #000028;
   --accent-color: #FF0070;
   --title-color: #DB00FF;
-  --text-color: #F1B2CE;
+  --text-color: #000028;
+  --par-color: #F1B2CE;
+  --border-color: #FF0070;
+  --shadow-color: #FF0070;
 }
