@@ -13,6 +13,7 @@
   --border-color: #353430;
   --par-color: #353430;
   --shadow-color: #FF8DCB;
+  --main-title-color: #353430;
   --rec-display: none;
 }
 
@@ -27,6 +28,7 @@
     --border-color: #353430;
     --par-color: #353430;
     --shadow-color: #FF8DCB;
+    --main-title-color: #353430;
     --rec-display: none;
   }
 }
